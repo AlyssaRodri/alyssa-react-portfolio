@@ -5,7 +5,8 @@ import {
     Stack,
     useColorModeValue,
     Image,
-    Flex
+    Flex,
+    Link
   } from '@chakra-ui/react';
   
   export default function Project1Card() {
@@ -41,6 +42,7 @@ import {
             <Text color={'gray.500'}>
               With the idea of creating a one stop shop for all data to do with the NBA, my group and I created a front end application to help the user save the information of players and teams.
             </Text>
+            <Link href='https://github.com/eugene125/project-1' isExternal></Link>
           </Stack>
         </Box>
       </Flex>

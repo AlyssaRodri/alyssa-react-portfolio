@@ -5,7 +5,8 @@ import {
     Stack,
     useColorModeValue,
     Image,
-    Flex
+    Flex,
+    Link
   } from '@chakra-ui/react';
   
   export default function Project2Card() {
@@ -41,6 +42,7 @@ import {
             <Text color={'gray.500'}>
               My group and I created a community where the user would be able to communicate with other plant parents. 
             </Text>
+            <Link href="https://github.com/AlyssaRodri/plant-store" isExternal> Visit this repo! </Link>
           </Stack>
         </Box>
       </Flex>

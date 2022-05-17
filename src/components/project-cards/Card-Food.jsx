@@ -5,7 +5,8 @@ import {
   Stack,
   useColorModeValue,
   Image,
-  Flex
+  Flex,
+  Link
 } from '@chakra-ui/react';
 
 export default function Project3Card() {
@@ -41,6 +42,7 @@ export default function Project3Card() {
           <Text color={'gray.500'}>
             In this project, I worked with my group to create an app that would allow the user to search for more specific dietary restrictions that are not always included on the label on the box.
           </Text>
+          <Link href='https://github.com/ksjefferies/Food-for-Thought' isExternal> Visit this repo!</Link>
         </Stack>
       </Box>
     </Flex>
