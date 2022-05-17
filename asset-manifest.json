@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alyssa-react-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/alyssa-react-portfolio/static/js/main.281b5abd.js",
+    "static/js/787.5574d987.chunk.js": "/alyssa-react-portfolio/static/js/787.5574d987.chunk.js",
+    "index.html": "/alyssa-react-portfolio/index.html",
+    "main.073c9b0a.css.map": "/alyssa-react-portfolio/static/css/main.073c9b0a.css.map",
+    "main.281b5abd.js.map": "/alyssa-react-portfolio/static/js/main.281b5abd.js.map",
+    "787.5574d987.chunk.js.map": "/alyssa-react-portfolio/static/js/787.5574d987.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.281b5abd.js"
+  ]
+}
