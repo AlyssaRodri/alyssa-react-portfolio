@@ -21,9 +21,9 @@ export default function Nav() {
 
           <Flex justifyContent={'flex-end'}>
             <HStack spacing='2rem'>
-              <Link to="/" > Home</Link>
-              <Link to="/projects"> My Work </Link>
-              <Link to="/footer"> Contact </Link>
+              <Link href="/" > Home</Link>
+              <Link to="/Projects"> My Work </Link>
+              <Link href="/Contact"> Contact </Link>
               <a href="https://docs.google.com/document/d/1_0L-T8EB8gi0BITXL9dxcabHJLJJzVD2gN2KMLeCi8U/edit?usp=sharing" target="_blank" rel="noreferrer" download>Resume</a>
             </HStack>
           </Flex>
